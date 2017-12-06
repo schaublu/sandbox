@@ -1,2 +1,2 @@
 # sandbox
-a nice place to play
+a place to play
